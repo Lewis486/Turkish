@@ -672,13 +672,20 @@
                 "Texture for tail light"
             ]
         },
-        "5193": {
+         "5193": {
             "name": "Boeing b747-8I",
             "liveries": [
+                {
+                    "name": "Turkish Airlines",
+                    "texture": [
+                        "https://i.ibb.co/v6CnQr1n/747.png"
+                    ],
+                    "credits": "Lewis"
+                },
+                
             ],
             "labels": [
-                "Texture",
-                "Wing texture"
+                "Texture"
             ]
             
         },
