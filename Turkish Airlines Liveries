@@ -462,30 +462,14 @@
                     ],
                     "credits": "Lewis"                                                         
                 },
-                {
-                    "name": "Air Canada liveryhabsfan1909",                                                         
+             {
+                    "name": "Turkish Airlines UEFA",                                                         
                     "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/cv6yqpk/aircanada.png"       
+                        "https://i.ibb.co/XgGw00j/TKUEFA3.png"       
                     ],
-                    "credits": "habsfan1909"                                    
+                    "credits": "Lewis"                                                         
                 },
-                {
-                    "name": "Air Canada ice livery",                                                         
-                    "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/1RgCwPk/ACA-ICY-A350.jpg Air Canada ice livery credits habsfan1909"       
-                    ],
-                    "credits": "habsfan1909"                                    
-                },
-                {
-                    "name": "Air Canada herritage livery",                                                         
-                    "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/4JSnwrF/Air-Canada-Vintage-Big-Tail-Logo.jpg"       
-                    ],
-                    "credits": "halca16"                                    
-                }
+               
             ],
             "labels": [
                 "Specular shader",
@@ -535,6 +519,22 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+                {
+                    "name": "Turksih Airlines UEFA",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/23CW2kk1/turkish.png"
+                    ],
+                    "credits": "Lewis"
+                },
+                {
+                    "name": "Turkish Airlines",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/nMtmcWg0/turkish.jpg"
+                    ],
+                    "credits": "Lewis"
+                }
             ],
             "labels": [
                 "Specular shader",
