@@ -1,7 +1,7 @@
 {
     "name": " Turkish Airlines",
     "color": "Red",
-    "bgcolor": "White",
+    "bgcolor": "white",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
