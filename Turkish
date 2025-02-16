@@ -75,6 +75,21 @@
                 "Texture"
             ]
         },
+        "2418": {
+            "name": "ATR 72-600",
+            "liveries": [
+                {
+                    "name": "Turkish Airlines",
+                    "texture": [
+                        "https://i.ibb.co/fYqjrJRS/turkish-atr72-1-1.webp"
+                    ],
+                    "credits": "Lewis"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
         "3054": {
             "name": "B737-800",
             "liveries": [
@@ -100,21 +115,6 @@
                     ],
                     "credits": "Lewis"
                 }
-            ],
-            "labels": [
-                "Texture"
-            ]
-        },
-"2418": {
-            "name": "ATR 72-600",
-            "liveries": [
-              {
-                  "name: "Turkish Airlines",
-                  "texture": [
-                         "https://i.ibb.co/fYqjrJRS/turkish-atr72-1-1.webp"
-                  ],
-                  "credits": "Lewis"
-              }
             ],
             "labels": [
                 "Texture"
