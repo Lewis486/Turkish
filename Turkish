@@ -449,28 +449,6 @@
                 "Texture"
             ]
         },
-        "3180": {
-            "name": "Boeing b787-10",
-            "liveries": [
-                {
-                    "name": "Turkish Airlines 787-10 Art",
-                    "texture": [
-                        "https://i.ibb.co/R4pbHY02/Untitled.png"
-                    ],
-                    "credits": "Lewis"
-                },
-                {
-                    "name": "Turkish Airlines 787-10",
-                    "texture": [
-                        "https://i.ibb.co/JRGdBqQS/Turkish-Airrliness.jpg"
-                    ],
-                    "credits": "lewis"
-                }
-            ],
-            "labels": [
-                "Texture"
-            ]
-        },
         "3211": {
             "name": "UTVA 75",
             "liveries": [],
