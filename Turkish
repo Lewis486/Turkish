@@ -105,6 +105,21 @@
                 "Texture"
             ]
         },
+"2418": {
+            "name": "ATR 72-600",
+            "liveries": [
+              {
+                  "name: "Turkish Airlines",
+                  "texture": [
+                         "https://i.ibb.co/fYqjrJRS/turkish-atr72-1-1.webp"
+                  ],
+                  "credits": "Lewis"
+              }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
         "3575": {
             "name": "Boeing b787-9",
             "liveries": [
